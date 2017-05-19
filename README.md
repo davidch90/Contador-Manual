@@ -1,0 +1,2 @@
+# Contador-Manual
+realiza conteos
